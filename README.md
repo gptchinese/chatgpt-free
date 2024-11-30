@@ -1,8 +1,8 @@
-# ChatGPT中文版：国内使用教程，支持GPT-4、4o和o1，无需翻墙 【2024/11/30 更新】
+# ChatGPT中文版：国内使用教程，支持GPT-4、4o和o1，无需翻墙 【2024/12/01 更新】
 
-**想使用 ChatGPT中文版？不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview** <br />  
-<br /> 
-我们为大家整理提供了一些国内可用的 **ChatGPT中文版**，方便国内用户使用ChatGPT~ <br />
+**想使用 ChatGPT中文版？不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview** 
+
+我们为大家整理提供了一些国内可用的 **ChatGPT中文版**，方便国内用户使用ChatGPT~
 
 ## ChatGPT中文版：
 
